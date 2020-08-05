@@ -1,6 +1,8 @@
 # buses-lines-etufor
 finding patterns, anomalies and next stops from ETUFOR bus lines using GTFS data
 
+project based on: https://github.com/InsightLab/lagom-microservices-example
+
 ### preparing to load data: mongodb
 ```
 # run mongodb docker
